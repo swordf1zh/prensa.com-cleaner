@@ -1,15 +1,16 @@
 // ==UserScript==
-// @name        Prensa.com Solo Noticias
-// @version     0.1
-// @author      swordf1zh
-// @namespace   swordf1zh
-// @description Script para poder leer cómodamente las noticias en prensa.com sin anuncios, comentarios, etc..
-// @include     *.prensa.com/*
-// @exclude     *.prensa.com/
-// @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
-// @license	MIT License; http://www.opensource.org/licenses/mit-license.php
+// @name		Prensa.com Solo Noticias
+// @version		0.1
+// @author		swordf1zh
+// @namespace	https://openuserjs.org/users/swordf1zh
+// @description	Script para poder leer cómodamente las noticias en prensa.com sin anuncios, comentarios, etc..
+// @include		*.prensa.com/*
+// @exclude		*.prensa.com/
+// @require		http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+// @require		http://openuserjs.org/src/libs/swordf1zh/prensa.com-cleaner.js
+// @license		MIT License; http://www.opensource.org/licenses/mit-license.php
 // @copyright	2014, Ricardo Tribaldos (http://ricardo.tribaldos.org/)
-// @grant       none
+// @grant		none
 // ==/UserScript==
 
 var title = $('.content>h1');
