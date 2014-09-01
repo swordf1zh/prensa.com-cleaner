@@ -15,6 +15,9 @@
 
 var title = $('.content>h1');
 var keep = $('.uhora_body');
+var gallery = $('#gallery');
+var onlyImg = $('img.decoded');
+
 var styles = {
         margin: '0 auto',
         width: '50%'
@@ -27,4 +30,4 @@ $('<div>').appendTo('body');
 $('body>div').addClass('prity');
 
 $('.prity').css( styles );
-$('div').append( title ).append( keep );
+$('div').append( title ).append( keep ).append( gallery ).append( onlyImg );
