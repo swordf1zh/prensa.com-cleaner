@@ -3,7 +3,7 @@
 // @version		0.1
 // @author		swordf1zh
 // @namespace	https://openuserjs.org/users/swordf1zh
-// @description	Script para poder leer cómodamente las noticias en prensa.com sin anuncios, comentarios, etc..
+// @description	Script para leer cómodamente (sin anuncios, comentarios, etc.) las noticias en el periódico La Prensa (Prensa.com) de Panamá.
 // @include		*.prensa.com/*
 // @exclude		*.prensa.com/
 // @require		http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
