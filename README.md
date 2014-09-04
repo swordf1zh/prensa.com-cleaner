@@ -1,4 +1,4 @@
 prensa.com-cleaner
 ==================
 
-Script para poder leer cómodamente las noticias en prensa.com sin anuncios, comentarios, etc..
+Script para leer cómodamente (sin anuncios, comentarios, etc.) las noticias en el periódico La Prensa (Prensa.com) de Panamá.
